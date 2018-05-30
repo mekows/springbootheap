@@ -1,4 +1,4 @@
-package com.luyh.projectv1.dao.config;
+package com.mekows.projectv1.dao.config;
 
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.mybatis.spring.SqlSessionFactoryBean;

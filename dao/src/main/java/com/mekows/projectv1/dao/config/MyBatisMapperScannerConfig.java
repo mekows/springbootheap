@@ -1,4 +1,4 @@
-package com.luyh.projectv1.dao.config;
+package com.mekows.projectv1.dao.config;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.mybatis.spring.mapper.MapperScannerConfigurer;

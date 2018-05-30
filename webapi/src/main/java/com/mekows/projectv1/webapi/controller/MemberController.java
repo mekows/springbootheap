@@ -1,7 +1,7 @@
-package com.luyh.projectv1.webapi.controller;
+package com.mekows.projectv1.webapi.controller;
 
-import com.luyh.projectv1.model.Member;
-import com.luyh.projectv1.service.IMemberService;
+import com.mekows.projectv1.model.Member;
+import com.mekows.projectv1.service.IMemberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

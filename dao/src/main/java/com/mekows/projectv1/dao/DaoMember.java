@@ -1,7 +1,7 @@
-package com.luyh.projectv1.dao;
+package com.mekows.projectv1.dao;
 
-import com.luyh.projectv1.dao.mapper.MemberMapper;
-import com.luyh.projectv1.model.Member;
+import com.mekows.projectv1.dao.mapper.MemberMapper;
+import com.mekows.projectv1.model.Member;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

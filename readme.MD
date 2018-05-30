@@ -67,7 +67,7 @@
 
 ###8. `webapi` 编写webapi获取json数据
  - 建立Application.java 启动应用
- - 建立 `com.luyh.projectv1.webapi.controller.MemberController.java` 写个rest风格Controller
+ - 建立 `MemberController.java` 写个rest风格Controller
  - 启动
  
 ###9.sql文件  请自行导入mysql数据 sql文件

@@ -1,4 +1,4 @@
-package com.luyh.projectv1.model;
+package com.mekows.projectv1.model;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 
